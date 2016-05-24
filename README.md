@@ -5,7 +5,7 @@ Count pushes on PTT.cc.
 
 Install
 -------
-[Greasy Fork]()
+[Greasy Fork](https://greasyfork.org/scripts/19937-ptt-push-count)
 
 Changelog
 ---------
